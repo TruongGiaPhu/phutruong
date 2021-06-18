@@ -1,0 +1,54 @@
+.cart{
+    width: 1350px;
+    margin-left: 160px;
+}
+
+.cart-br{
+    line-height: 50px;
+}
+
+.cart-table{
+    float: left;
+    width: 90%;
+    margin-bottom: 30px;
+}
+
+/* cở chữ của img gia remove */
+    .cart-table th{
+        line-height: 40px;
+        font-size: 15px;
+    }
+
+    .cart-table img{
+        width: 100px;
+    }
+   
+    .cart-table th, td{
+        text-align: center;
+        width: 18%;
+    }
+    .soluong input{
+        width: 47px;
+    }
+
+    .cart-table td{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .cart-table tr{
+        margin-top: 10000px;
+    }
+
+    .cart-table table, th, td{
+        border-bottom: 3px solid #E4E7ED;   
+        margin-right: 10px;
+        border-bottom-width:100%;
+        border-collapse: collapse;
+        
+    }
+
+.cart-result{
+    font-size: 20px;
+    
+}
